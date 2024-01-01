@@ -1,6 +1,6 @@
 ## Hello, World!  
 
-You are the ![Visitor Count](https://profile-counter.glitch.me/lyy1119/count.svg) who visit my profile page.  
+You are the ![Visitor Count](https://profile-counter.glitch.me/lyy1119/count.svg) who visits my profile page.  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyy1119)](https://github.com/lyy1119/github-readme-stats)  
 
