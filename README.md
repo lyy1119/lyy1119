@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hello, World!  
+![Visitor Count](https://profile-counter.glitch.me/lyy1119/count.svg)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas)](https://github.com/lyy1119/github-readme-stats)  
+
+
+
+
 
 <!--
 **lyy1119/lyy1119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
