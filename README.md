@@ -1,10 +1,11 @@
 ## Hello, World!  
 
-My ![Visitor Count](https://profile-counter.glitch.me/lyy1119/count.svg) visitor.  
+You are the ![Visitor Count](https://profile-counter.glitch.me/lyy1119/count.svg) who visit my profile page.  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyy1119)](https://github.com/lyy1119/github-readme-stats)  
 
-
+**my metrics**
+![metrics](https://metrics.lecoq.io/insights/lyy1119)
 
 
 
