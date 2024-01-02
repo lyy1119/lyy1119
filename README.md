@@ -9,9 +9,11 @@ You are the ![Visitor Count](https://profile-counter.glitch.me/lyy1119/count.svg
 [![Static Badge](https://img.shields.io/badge/Text_Editor-VScode-blue)](https://code.visualstudio.com/)  
 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyy1119)](https://github.com/lyy1119/github-readme-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyy1119&layout=compact)  
+
+![lyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyy1119)  
   
-**contact me by QQ:2286301015 if necessary**
+**💬 contact me by QQ:2286301015 if necessary**
 
 
 <!--
