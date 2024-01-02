@@ -8,6 +8,7 @@ You are the ![Visitor Count](https://profile-counter.glitch.me/lyy1119/count.svg
 
 [![Static Badge](https://img.shields.io/badge/Text_Editor-VScode-blue)](https://code.visualstudio.com/)  
 
+![Static Badge](https://img.shields.io/badge/C-blue) ![Static Badge](https://img.shields.io/badge/C%2B%2B-blue) ![Static Badge](https://img.shields.io/badge/Python-yellow)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyy1119&layout=compact)  
 
