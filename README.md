@@ -1,6 +1,13 @@
 ## Hello, World!  
 
 You are the ![Visitor Count](https://profile-counter.glitch.me/lyy1119/count.svg) who visits my profile page.  
+
+[![Static Badge](https://img.shields.io/badge/University-China_University_of_Mining_%26_Technology%2C_Beijing-red)](https://www.cumtb.edu.cn/)  
+
+![Static Badge](https://img.shields.io/badge/Major-Mechanical-red)  
+
+[![Static Badge](https://img.shields.io/badge/Text_Editor-VScode-blue)](https://code.visualstudio.com/)  
+
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyy1119)](https://github.com/lyy1119/github-readme-stats)  
   
