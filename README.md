@@ -1,6 +1,6 @@
 ## Hello, World!  
 
-You are the ![Visitor Count](https://profile-counter.glitch.me/lyy1119/count.svg) who visits my profile page.  
+You are the ![Visitor Count](https://profile-counter.glitch.me/lyy1119/count.svg) to visit my profile page.😙  
 
 [![Static Badge](https://img.shields.io/badge/University-China_University_of_Mining_%26_Technology%2C_Beijing-red)](https://www.cumtb.edu.cn/)  
 
